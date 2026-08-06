@@ -1,0 +1,68 @@
+# ==========================
+# Q-FSI Content Studio
+# Requirements
+# ==========================
+
+# APP
+streamlit>=1.48.0
+
+# DATA
+pandas>=2.3.0
+numpy>=2.3.0
+
+# IMAGES
+Pillow>=11.3.0
+
+# HTML Templates
+jinja2>=3.1.6
+
+# HTML → PNG
+playwright>=1.54.0
+
+# Export PDF (opcional)
+weasyprint>=66.0
+
+# Charts
+plotly>=6.3.0
+
+# AI
+openai>=1.100.0
+
+# Environment
+python-dotenv>=1.1.1
+
+# HTTP
+requests>=2.32.5
+
+# Image Processing
+opencv-python>=4.12.0
+
+# JSON Validation
+pydantic>=2.11.7
+
+# Markdown
+markdown>=3.8.2
+
+# Progress Bars
+tqdm>=4.67.1
+
+# Icons
+fontawesomefree>=6.6.0
+
+# ZIP
+zipstream-new>=1.1.8
+
+# File Watcher
+watchdog>=6.0.0
+
+# Date Utilities
+python-dateutil>=2.9.0
+
+# Optional Storage
+supabase>=2.18.1
+
+# Export Excel
+openpyxl>=3.1.5
+
+# YAML Config
+PyYAML>=6.0.2
